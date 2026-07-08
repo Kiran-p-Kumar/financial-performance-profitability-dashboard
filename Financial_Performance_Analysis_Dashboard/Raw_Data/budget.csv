@@ -1,0 +1,1230 @@
+ID,DATE,COD_ACCOUNT,ACCOUNT,Short_CLASS,CLASS,REVENUE/EXPENSES,BUDGET
+1,31-01-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,70000
+2,31-01-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,80000
+3,31-01-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,4000
+4,31-01-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,6000
+5,31-01-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,13500
+6,31-01-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,11000
+7,31-01-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,880
+8,31-01-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,1100
+9,31-01-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,275
+10,31-01-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4500
+11,31-01-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+12,31-01-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+13,31-01-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+14,31-01-2022,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,2500
+15,31-01-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,500
+16,31-01-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1500
+17,31-01-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,1000
+18,31-01-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+19,31-01-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,15000
+20,31-01-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,6500
+21,31-01-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+22,31-01-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+23,31-01-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+24,28-02-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,72500
+25,28-02-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,80000
+26,28-02-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,4000
+27,28-02-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,6100
+28,28-02-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,13700
+29,28-02-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,11000
+30,28-02-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,880
+31,28-02-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,1100
+32,28-02-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,275
+33,28-02-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4600
+34,28-02-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+35,28-02-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+36,28-02-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+37,28-02-2022,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,2600
+38,28-02-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,550
+39,28-02-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1500
+40,28-02-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,1000
+41,28-02-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+42,28-02-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,16000
+43,28-02-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,6550
+44,28-02-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+45,28-02-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+46,28-02-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+47,31-03-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,75000
+48,31-03-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,80000
+49,31-03-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,4000
+50,31-03-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,6200
+51,31-03-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,13900
+52,31-03-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,11000
+53,31-03-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,880
+54,31-03-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,1100
+55,31-03-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,275
+56,31-03-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4700
+57,31-03-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+58,31-03-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+59,31-03-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+60,31-03-2022,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,2650
+61,31-03-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,600
+62,31-03-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1500
+63,31-03-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,1000
+64,31-03-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+65,31-03-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,17000
+66,31-03-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,6600
+67,31-03-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+68,31-03-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+69,31-03-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+70,30-04-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,77500
+71,30-04-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,85000
+72,30-04-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,4250
+73,30-04-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,6500
+74,30-04-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,14100
+75,30-04-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,16000
+76,30-04-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,1280
+77,30-04-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,1600
+78,30-04-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,400
+79,30-04-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4800
+80,30-04-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+81,30-04-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+82,30-04-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+83,30-04-2022,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,2700
+84,30-04-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,620
+85,30-04-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1500
+86,30-04-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,1000
+87,30-04-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+88,30-04-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,18000
+89,30-04-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,6650
+90,30-04-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+91,30-04-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+92,30-04-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+93,31-05-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,80000
+94,31-05-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,85000
+95,31-05-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,4250
+96,31-05-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,6600
+97,31-05-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,14300
+98,31-05-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,16000
+99,31-05-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,1280
+100,31-05-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,1600
+101,31-05-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,400
+102,31-05-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4900
+103,31-05-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+104,31-05-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+105,31-05-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+106,31-05-2022,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,2750
+107,31-05-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,640
+108,31-05-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1500
+109,31-05-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,1000
+110,31-05-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+111,31-05-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,19000
+112,31-05-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,6700
+113,31-05-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+114,31-05-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+115,31-05-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+116,30-06-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,82500
+117,30-06-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,85000
+118,30-06-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,4250
+119,30-06-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,6700
+120,30-06-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,14500
+121,30-06-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,16000
+122,30-06-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,1280
+123,30-06-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,1600
+124,30-06-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,400
+125,30-06-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5000
+126,30-06-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+127,30-06-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+128,30-06-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+129,30-06-2022,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,2800
+130,30-06-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,660
+131,30-06-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1600
+132,30-06-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,1000
+133,30-06-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+134,30-06-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,20000
+135,30-06-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,6750
+136,30-06-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+137,30-06-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+138,30-06-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+139,31-07-2022,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,55000
+140,31-07-2022,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4400
+141,31-07-2022,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5500
+142,31-07-2022,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1375
+143,31-07-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,85000
+144,31-07-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,200000
+145,31-07-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,50000
+146,31-07-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,10000
+147,31-07-2022,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,11400
+148,31-07-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,24700
+149,31-07-2022,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3700
+150,31-07-2022,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4700
+151,31-07-2022,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,15500
+152,31-07-2022,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,2600
+153,31-07-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,21000
+154,31-07-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,1680
+155,31-07-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,2100
+156,31-07-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,525
+157,31-07-2022,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,28500
+158,31-07-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4650
+159,31-07-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+160,31-07-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+161,31-07-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+162,31-07-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1550
+163,31-07-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1600
+164,31-07-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2600
+165,31-07-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+166,31-07-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,21000
+167,31-07-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,67000
+168,31-07-2022,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5360
+169,31-07-2022,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,6700
+170,31-07-2022,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1675
+171,31-07-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+172,31-07-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+173,31-07-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+174,31-08-2022,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,56500
+175,31-08-2022,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4520
+176,31-08-2022,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5650
+177,31-08-2022,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1413
+178,31-08-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,87500
+179,31-08-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,200000
+180,31-08-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,50000
+181,31-08-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,10000
+182,31-08-2022,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,11500
+183,31-08-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,25100
+184,31-08-2022,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3700
+185,31-08-2022,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4700
+186,31-08-2022,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,15500
+187,31-08-2022,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,2650
+188,31-08-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,21000
+189,31-08-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,1680
+190,31-08-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,2100
+191,31-08-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,525
+192,31-08-2022,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,28500
+193,31-08-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4650
+194,31-08-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+195,31-08-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+196,31-08-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+197,31-08-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1550
+198,31-08-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1600
+199,31-08-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2600
+200,31-08-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+201,31-08-2022,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,87500
+202,31-08-2022,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7000
+203,31-08-2022,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,8750
+204,31-08-2022,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2188
+205,31-08-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,22000
+206,31-08-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,67000
+207,31-08-2022,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5360
+208,31-08-2022,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,6700
+209,31-08-2022,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1675
+210,31-08-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+211,31-08-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+212,31-08-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+213,30-09-2022,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,56500
+214,30-09-2022,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4520
+215,30-09-2022,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5650
+216,30-09-2022,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1413
+217,30-09-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,90000
+218,30-09-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,250000
+219,30-09-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,50000
+220,30-09-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,12500
+221,30-09-2022,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,13600
+222,30-09-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,25700
+223,30-09-2022,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3700
+224,30-09-2022,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4700
+225,30-09-2022,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,15500
+226,30-09-2022,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,2700
+227,30-09-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,21000
+228,30-09-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,1680
+229,30-09-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,2100
+230,30-09-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,525
+231,30-09-2022,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,29800
+232,30-09-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4650
+233,30-09-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+234,30-09-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+235,30-09-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+236,30-09-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1550
+237,30-09-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1600
+238,30-09-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2600
+239,30-09-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+240,30-09-2022,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,87500
+241,30-09-2022,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7000
+242,30-09-2022,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,8750
+243,30-09-2022,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2188
+244,30-09-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,23000
+245,30-09-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,67000
+246,30-09-2022,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5360
+247,30-09-2022,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,6700
+248,30-09-2022,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1675
+249,30-09-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+250,30-09-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+251,30-09-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+252,31-10-2022,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,57500
+253,31-10-2022,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4600
+254,31-10-2022,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5750
+255,31-10-2022,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1438
+256,31-10-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,92500
+257,31-10-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,250000
+258,31-10-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,55000
+259,31-10-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,12500
+260,31-10-2022,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,13700
+261,31-10-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,28700
+262,31-10-2022,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3700
+263,31-10-2022,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4700
+264,31-10-2022,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,15500
+265,31-10-2022,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,2800
+266,31-10-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,26000
+267,31-10-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2080
+268,31-10-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,2600
+269,31-10-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,650
+270,31-10-2022,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,31500
+271,31-10-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4650
+272,31-10-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+273,31-10-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+274,31-10-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+275,31-10-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1600
+276,31-10-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1600
+277,31-10-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2600
+278,31-10-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+279,31-10-2022,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,87500
+280,31-10-2022,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7000
+281,31-10-2022,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,8750
+282,31-10-2022,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2188
+283,31-10-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,24000
+284,31-10-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,68000
+285,31-10-2022,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5440
+286,31-10-2022,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,6800
+287,31-10-2022,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1700
+288,31-10-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+289,31-10-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+290,31-10-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+291,30-11-2022,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,57500
+292,30-11-2022,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4600
+293,30-11-2022,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5750
+294,30-11-2022,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1438
+295,30-11-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,95000
+296,30-11-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,275000
+297,30-11-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,55000
+298,30-11-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,13750
+299,30-11-2022,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,14800
+300,30-11-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,33500
+301,30-11-2022,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3700
+302,30-11-2022,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4700
+303,30-11-2022,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,15500
+304,30-11-2022,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,2900
+305,30-11-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,26000
+306,30-11-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2080
+307,30-11-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,2600
+308,30-11-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,650
+309,30-11-2022,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,33500
+310,30-11-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4650
+311,30-11-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+312,30-11-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+313,30-11-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+314,30-11-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1600
+315,30-11-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1700
+316,30-11-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2600
+317,30-11-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+318,30-11-2022,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,88500
+319,30-11-2022,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7080
+320,30-11-2022,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,8850
+321,30-11-2022,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2213
+322,30-11-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,25000
+323,30-11-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,68000
+324,30-11-2022,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5440
+325,30-11-2022,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,6800
+326,30-11-2022,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1700
+327,30-11-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+328,30-11-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+329,30-11-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+330,31-12-2022,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,57500
+331,31-12-2022,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4600
+332,31-12-2022,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5750
+333,31-12-2022,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1438
+334,31-12-2022,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,97500
+335,31-12-2022,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,275000
+336,31-12-2022,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,55000
+337,31-12-2022,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,13750
+338,31-12-2022,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,14900
+339,31-12-2022,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,37800
+340,31-12-2022,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3700
+341,31-12-2022,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4700
+342,31-12-2022,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,15500
+343,31-12-2022,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3000
+344,31-12-2022,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,26000
+345,31-12-2022,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2080
+346,31-12-2022,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,2600
+347,31-12-2022,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,650
+348,31-12-2022,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,35800
+349,31-12-2022,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,4650
+350,31-12-2022,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+351,31-12-2022,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,5200
+352,31-12-2022,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,7800
+353,31-12-2022,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1650
+354,31-12-2022,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1700
+355,31-12-2022,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2600
+356,31-12-2022,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,1000
+357,31-12-2022,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,88500
+358,31-12-2022,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7080
+359,31-12-2022,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,8850
+360,31-12-2022,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2213
+361,31-12-2022,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,26000
+362,31-12-2022,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,68000
+363,31-12-2022,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5440
+364,31-12-2022,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,6800
+365,31-12-2022,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1700
+366,31-12-2022,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,2000
+367,31-12-2022,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,500
+368,31-12-2022,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,1000
+369,31-01-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,59000
+370,31-01-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4720
+371,31-01-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5900
+372,31-01-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1475
+373,31-01-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,100000
+374,31-01-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,275000
+375,31-01-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,60000
+376,31-01-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,13750
+377,31-01-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,15000
+378,31-01-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,27800
+379,31-01-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3900
+380,31-01-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4900
+381,31-01-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16000
+382,31-01-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3100
+383,31-01-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,31000
+384,31-01-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2480
+385,31-01-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,3100
+386,31-01-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,775
+387,31-01-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,34800
+388,31-01-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5400
+389,31-01-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+390,31-01-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27200
+391,31-01-2023,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,3200
+392,31-01-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1700
+393,31-01-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1700
+394,31-01-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2700
+395,31-01-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+396,31-01-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,88500
+397,31-01-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7080
+398,31-01-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,8850
+399,31-01-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2213
+400,31-01-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,27000
+401,31-01-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,70000
+402,31-01-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5600
+403,31-01-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7000
+404,31-01-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1750
+405,31-01-2023,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,4500
+406,31-01-2023,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,2500
+407,31-01-2023,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,3500
+408,28-02-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,59000
+409,28-02-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4720
+410,28-02-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5900
+411,28-02-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1475
+412,28-02-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,102500
+413,28-02-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,300000
+414,28-02-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,60000
+415,28-02-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,15000
+416,28-02-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,16100
+417,28-02-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,28500
+418,28-02-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3900
+419,28-02-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4900
+420,28-02-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16000
+421,28-02-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3200
+422,28-02-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,31000
+423,28-02-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2480
+424,28-02-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,3100
+425,28-02-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,775
+426,28-02-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,36500
+427,28-02-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5400
+428,28-02-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+429,28-02-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27200
+430,28-02-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1700
+431,28-02-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1700
+432,28-02-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2700
+433,28-02-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+434,28-02-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,91000
+435,28-02-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7280
+436,28-02-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9100
+437,28-02-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2275
+438,28-02-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,28000
+439,28-02-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,70000
+440,28-02-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5600
+441,28-02-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7000
+442,28-02-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1750
+443,31-03-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,59000
+444,31-03-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4720
+445,31-03-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,5900
+446,31-03-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1475
+447,31-03-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,105000
+448,31-03-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,300000
+449,31-03-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,60000
+450,31-03-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,15000
+451,31-03-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,16200
+452,31-03-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,29200
+453,31-03-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3900
+454,31-03-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4900
+455,31-03-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16000
+456,31-03-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3300
+457,31-03-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,31000
+458,31-03-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2480
+459,31-03-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,3100
+460,31-03-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,775
+461,31-03-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,38500
+462,31-03-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5400
+463,31-03-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+464,31-03-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27200
+465,31-03-2023,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,3100
+466,31-03-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1750
+467,31-03-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1700
+468,31-03-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2700
+469,31-03-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+470,31-03-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,91000
+471,31-03-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7280
+472,31-03-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9100
+473,31-03-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2275
+474,31-03-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,29000
+475,31-03-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,70000
+476,31-03-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5600
+477,31-03-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7000
+478,31-03-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1750
+479,31-03-2023,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,4500
+480,31-03-2023,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,2500
+481,31-03-2023,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,3500
+482,30-04-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,60500
+483,30-04-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4840
+484,30-04-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6050
+485,30-04-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1513
+486,30-04-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,107500
+487,30-04-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,300000
+488,30-04-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,65000
+489,30-04-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,15000
+490,30-04-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,16300
+491,30-04-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,30000
+492,30-04-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3900
+493,30-04-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4900
+494,30-04-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16000
+495,30-04-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3300
+496,30-04-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,36000
+497,30-04-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2880
+498,30-04-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,3600
+499,30-04-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,900
+500,30-04-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,40800
+501,30-04-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5400
+502,30-04-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+503,30-04-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27200
+504,30-04-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1750
+505,30-04-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1800
+506,30-04-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2700
+507,30-04-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+508,30-04-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,91000
+509,30-04-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7280
+510,30-04-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9100
+511,30-04-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2275
+512,30-04-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,30000
+513,30-04-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,71500
+514,30-04-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5720
+515,30-04-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7150
+516,30-04-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1788
+517,31-05-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,60500
+518,31-05-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4840
+519,31-05-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6050
+520,31-05-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1513
+521,31-05-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,110000
+522,31-05-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,350000
+523,31-05-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,65000
+524,31-05-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,17500
+525,31-05-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,18400
+526,31-05-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,30800
+527,31-05-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3900
+528,31-05-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4900
+529,31-05-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16000
+530,31-05-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3400
+531,31-05-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,36000
+532,31-05-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2880
+533,31-05-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,3600
+534,31-05-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,900
+535,31-05-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,39800
+536,31-05-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5400
+537,31-05-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+538,31-05-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27200
+539,31-05-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1800
+540,31-05-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1800
+541,31-05-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2700
+542,31-05-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+543,31-05-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,93000
+544,31-05-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7440
+545,31-05-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9300
+546,31-05-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2325
+547,31-05-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,31000
+548,31-05-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,71500
+549,31-05-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5720
+550,31-05-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7150
+551,31-05-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1788
+552,30-06-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,62000
+553,30-06-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4960
+554,30-06-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6200
+555,30-06-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1550
+556,30-06-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,112500
+557,30-06-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,350000
+558,30-06-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,65000
+559,30-06-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,17500
+560,30-06-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,18500
+561,30-06-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,31500
+562,30-06-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,3900
+563,30-06-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4900
+564,30-06-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16000
+565,30-06-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3500
+566,30-06-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,36000
+567,30-06-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,2880
+568,30-06-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,3600
+569,30-06-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,900
+570,30-06-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,41500
+571,30-06-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5400
+572,30-06-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8000
+573,30-06-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27200
+574,30-06-2023,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,3300
+575,30-06-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1800
+576,30-06-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1800
+577,30-06-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2700
+578,30-06-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+579,30-06-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,93000
+580,30-06-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7440
+581,30-06-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9300
+582,30-06-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2325
+583,30-06-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,32000
+584,30-06-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,73000
+585,30-06-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5840
+586,30-06-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7300
+587,30-06-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1825
+588,30-06-2023,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,4500
+589,30-06-2023,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,2500
+590,30-06-2023,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,3500
+591,31-07-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,62000
+592,31-07-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,4960
+593,31-07-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6200
+594,31-07-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1550
+595,31-07-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,115000
+596,31-07-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,350000
+597,31-07-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,70000
+598,31-07-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,17500
+599,31-07-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,18600
+600,31-07-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,32200
+601,31-07-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,4100
+602,31-07-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,5100
+603,31-07-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16500
+604,31-07-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3600
+605,31-07-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,41000
+606,31-07-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,3280
+607,31-07-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,4100
+608,31-07-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1025
+609,31-07-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,43500
+610,31-07-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5500
+611,31-07-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8200
+612,31-07-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27800
+613,31-07-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1850
+614,31-07-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1800
+615,31-07-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2800
+616,31-07-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+617,31-07-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,95000
+618,31-07-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7600
+619,31-07-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9500
+620,31-07-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2375
+621,31-07-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,33000
+622,31-07-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,73000
+623,31-07-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5840
+624,31-07-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7300
+625,31-07-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1825
+626,31-08-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,63500
+627,31-08-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5080
+628,31-08-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6350
+629,31-08-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1588
+630,31-08-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,117500
+631,31-08-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,400000
+632,31-08-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,70000
+633,31-08-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,20000
+634,31-08-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,20700
+635,31-08-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,33000
+636,31-08-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,4100
+637,31-08-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,5100
+638,31-08-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16500
+639,31-08-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3700
+640,31-08-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,41000
+641,31-08-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,3280
+642,31-08-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,4100
+643,31-08-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1025
+644,31-08-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,45800
+645,31-08-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5500
+646,31-08-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8200
+647,31-08-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27800
+648,31-08-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1850
+649,31-08-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1800
+650,31-08-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2800
+651,31-08-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+652,31-08-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,95000
+653,31-08-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7600
+654,31-08-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9500
+655,31-08-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2375
+656,31-08-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,34000
+657,31-08-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,74500
+658,31-08-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5960
+659,31-08-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7450
+660,31-08-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1863
+661,30-09-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,63500
+662,30-09-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5080
+663,30-09-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6350
+664,30-09-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1588
+665,30-09-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,120000
+666,30-09-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,400000
+667,30-09-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,70000
+668,30-09-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,20000
+669,30-09-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,20800
+670,30-09-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,33800
+671,30-09-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,4100
+672,30-09-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,5100
+673,30-09-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16500
+674,30-09-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3800
+675,30-09-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,41000
+676,30-09-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,3280
+677,30-09-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,4100
+678,30-09-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1025
+679,30-09-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,44800
+680,30-09-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5500
+681,30-09-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8200
+682,30-09-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27800
+683,30-09-2023,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,3200
+684,30-09-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1900
+685,30-09-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1900
+686,30-09-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2800
+687,30-09-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+688,30-09-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,97000
+689,30-09-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7760
+690,30-09-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9700
+691,30-09-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2425
+692,30-09-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,35000
+693,30-09-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,74500
+694,30-09-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,5960
+695,30-09-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7450
+696,30-09-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1863
+697,30-09-2023,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,4500
+698,30-09-2023,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,2500
+699,30-09-2023,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,3500
+700,31-10-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,65000
+701,31-10-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5200
+702,31-10-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6500
+703,31-10-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1625
+704,31-10-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,122500
+705,31-10-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,400000
+706,31-10-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,75000
+707,31-10-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,20000
+708,31-10-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,20900
+709,31-10-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,37500
+710,31-10-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,4100
+711,31-10-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,5100
+712,31-10-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16500
+713,31-10-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,3900
+714,31-10-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,46000
+715,31-10-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,3680
+716,31-10-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,4600
+717,31-10-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1150
+718,31-10-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,46500
+719,31-10-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5500
+720,31-10-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8200
+721,31-10-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27800
+722,31-10-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1900
+723,31-10-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1900
+724,31-10-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2800
+725,31-10-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+726,31-10-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,97000
+727,31-10-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7760
+728,31-10-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9700
+729,31-10-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2425
+730,31-10-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,36000
+731,31-10-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,76000
+732,31-10-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6080
+733,31-10-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7600
+734,31-10-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1900
+735,30-11-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,65000
+736,30-11-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5200
+737,30-11-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6500
+738,30-11-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1625
+739,30-11-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,125000
+740,30-11-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,450000
+741,30-11-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,75000
+742,30-11-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,22500
+743,30-11-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,23000
+744,30-11-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,41500
+745,30-11-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,4100
+746,30-11-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,5100
+747,30-11-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16500
+748,30-11-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,4000
+749,30-11-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,46000
+750,30-11-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,3680
+751,30-11-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,4600
+752,30-11-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1150
+753,30-11-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,48500
+754,30-11-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5500
+755,30-11-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8200
+756,30-11-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27800
+757,30-11-2023,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,3400
+758,30-11-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1950
+759,30-11-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1900
+760,30-11-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2800
+761,30-11-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+762,30-11-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,99000
+763,30-11-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7920
+764,30-11-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9900
+765,30-11-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2475
+766,30-11-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,37000
+767,30-11-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,76000
+768,30-11-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6080
+769,30-11-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7600
+770,30-11-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1900
+771,30-11-2023,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,4500
+772,30-11-2023,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,2500
+773,30-11-2023,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,3500
+774,31-12-2023,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,65000
+775,31-12-2023,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5200
+776,31-12-2023,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6500
+777,31-12-2023,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1625
+778,31-12-2023,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,127500
+779,31-12-2023,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,450000
+780,31-12-2023,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,75000
+781,31-12-2023,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,22500
+782,31-12-2023,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,23100
+783,31-12-2023,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,46500
+784,31-12-2023,60400,60400 Dues & Subscriptions,G&A,General & Administrative,EXPENSES,4100
+785,31-12-2023,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,5100
+786,31-12-2023,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,16500
+787,31-12-2023,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,4100
+788,31-12-2023,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,46000
+789,31-12-2023,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,3680
+790,31-12-2023,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,4600
+791,31-12-2023,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1150
+792,31-12-2023,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,50800
+793,31-12-2023,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,5500
+794,31-12-2023,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,8200
+795,31-12-2023,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,27800
+796,31-12-2023,70100,70100 Interest Income,G&A,General & Administrative,REVENUE,1950
+797,31-12-2023,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1900
+798,31-12-2023,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2800
+799,31-12-2023,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,2000
+800,31-12-2023,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,99000
+801,31-12-2023,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7920
+802,31-12-2023,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9900
+803,31-12-2023,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2475
+804,31-12-2023,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,38000
+805,31-12-2023,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,76000
+806,31-12-2023,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6080
+807,31-12-2023,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7600
+808,31-12-2023,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1900
+809,31-01-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,65000
+810,31-01-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5200
+811,31-01-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6500
+812,31-01-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1625
+813,31-01-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,130000
+814,31-01-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,450000
+815,31-01-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,80000
+816,31-01-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,22500
+817,31-01-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,23200
+818,31-01-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,37000
+819,31-01-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+820,31-01-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+821,31-01-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+822,31-01-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,51000
+823,31-01-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4080
+824,31-01-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,5100
+825,31-01-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1275
+826,31-01-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,49800
+827,31-01-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+828,31-01-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+829,31-01-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+830,31-01-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+831,31-01-2024,61010,61010 Lodging,G&A,General & Administrative,EXPENSES,2500
+832,31-01-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,1900
+833,31-01-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2900
+834,31-01-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+835,31-01-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,99000
+836,31-01-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7920
+837,31-01-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9900
+838,31-01-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2475
+839,31-01-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,39000
+840,31-01-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,76000
+841,31-01-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6080
+842,31-01-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7600
+843,31-01-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1900
+844,31-01-2024,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,5000
+845,31-01-2024,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,7500
+846,31-01-2024,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,10000
+847,29-02-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,65000
+848,29-02-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5200
+849,29-02-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6500
+850,29-02-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1625
+851,29-02-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,132500
+852,29-02-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,475000
+853,29-02-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,80000
+854,29-02-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,23750
+855,29-02-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,24300
+856,29-02-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,35800
+857,29-02-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+858,29-02-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+859,29-02-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+860,29-02-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,51000
+861,29-02-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4080
+862,29-02-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,5100
+863,29-02-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1275
+864,29-02-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,51500
+865,29-02-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+866,29-02-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+867,29-02-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+868,29-02-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+869,29-02-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2000
+870,29-02-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2900
+871,29-02-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+872,29-02-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,99000
+873,29-02-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7920
+874,29-02-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9900
+875,29-02-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2475
+876,29-02-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,40000
+877,29-02-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,76000
+878,29-02-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6080
+879,29-02-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7600
+880,29-02-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1900
+881,31-03-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,66500
+882,31-03-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5320
+883,31-03-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6650
+884,31-03-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1663
+885,31-03-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,135000
+886,31-03-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,475000
+887,31-03-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,80000
+888,31-03-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,23750
+889,31-03-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,24400
+890,31-03-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,36500
+891,31-03-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+892,31-03-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+893,31-03-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+894,31-03-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,51000
+895,31-03-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4080
+896,31-03-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,5100
+897,31-03-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1275
+898,31-03-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,53500
+899,31-03-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+900,31-03-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+901,31-03-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+902,31-03-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+903,31-03-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2000
+904,31-03-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2900
+905,31-03-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+906,31-03-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,99000
+907,31-03-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,7920
+908,31-03-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,9900
+909,31-03-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2475
+910,31-03-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,41000
+911,31-03-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,77500
+912,31-03-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6200
+913,31-03-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7750
+914,31-03-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1938
+915,30-04-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,66500
+916,30-04-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5320
+917,30-04-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6650
+918,30-04-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1663
+919,30-04-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,137500
+920,30-04-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,475000
+921,30-04-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,85000
+922,30-04-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,23750
+923,30-04-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,24500
+924,30-04-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,37200
+925,30-04-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+926,30-04-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+927,30-04-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+928,30-04-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,56000
+929,30-04-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4480
+930,30-04-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,5600
+931,30-04-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1400
+932,30-04-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,55800
+933,30-04-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+934,30-04-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+935,30-04-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+936,30-04-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+937,30-04-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2000
+938,30-04-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2900
+939,30-04-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+940,30-04-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,101000
+941,30-04-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8080
+942,30-04-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10100
+943,30-04-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2525
+944,30-04-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,42000
+945,30-04-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,77500
+946,30-04-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6200
+947,30-04-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7750
+948,30-04-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1938
+949,30-04-2024,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,5000
+950,30-04-2024,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,7500
+951,30-04-2024,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,10000
+952,31-05-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,68000
+953,31-05-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5440
+954,31-05-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6800
+955,31-05-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1700
+956,31-05-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,140000
+957,31-05-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,500000
+958,31-05-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,85000
+959,31-05-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,25000
+960,31-05-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,25600
+961,31-05-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,38000
+962,31-05-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+963,31-05-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+964,31-05-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+965,31-05-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,56000
+966,31-05-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4480
+967,31-05-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,5600
+968,31-05-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1400
+969,31-05-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,54800
+970,31-05-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+971,31-05-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+972,31-05-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+973,31-05-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+974,31-05-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2000
+975,31-05-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2900
+976,31-05-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+977,31-05-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,101000
+978,31-05-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8080
+979,31-05-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10100
+980,31-05-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2525
+981,31-05-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,43000
+982,31-05-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,79000
+983,31-05-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6320
+984,31-05-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7900
+985,31-05-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1975
+986,30-06-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,68000
+987,30-06-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5440
+988,30-06-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6800
+989,30-06-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1700
+990,30-06-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,142500
+991,30-06-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,500000
+992,30-06-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,85000
+993,30-06-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,25000
+994,30-06-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,25700
+995,30-06-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,38800
+996,30-06-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+997,30-06-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+998,30-06-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+999,30-06-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,56000
+1000,30-06-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4480
+1001,30-06-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,5600
+1002,30-06-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1400
+1003,30-06-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,56500
+1004,30-06-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+1005,30-06-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+1006,30-06-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+1007,30-06-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+1008,30-06-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2000
+1009,30-06-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,2900
+1010,30-06-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+1011,30-06-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,103000
+1012,30-06-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8240
+1013,30-06-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10300
+1014,30-06-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2575
+1015,30-06-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,44000
+1016,30-06-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,79000
+1017,30-06-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6320
+1018,30-06-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,7900
+1019,30-06-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,1975
+1020,31-07-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,69500
+1021,31-07-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5560
+1022,31-07-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6950
+1023,31-07-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1738
+1024,31-07-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,145000
+1025,31-07-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,500000
+1026,31-07-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,90000
+1027,31-07-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,25000
+1028,31-07-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,25800
+1029,31-07-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,39500
+1030,31-07-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+1031,31-07-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+1032,31-07-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+1033,31-07-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,61000
+1034,31-07-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4880
+1035,31-07-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,6100
+1036,31-07-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1525
+1037,31-07-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,58500
+1038,31-07-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+1039,31-07-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+1040,31-07-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+1041,31-07-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+1042,31-07-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2100
+1043,31-07-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,3000
+1044,31-07-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+1045,31-07-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,103000
+1046,31-07-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8240
+1047,31-07-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10300
+1048,31-07-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2575
+1049,31-07-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,45000
+1050,31-07-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,80500
+1051,31-07-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6440
+1052,31-07-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,8050
+1053,31-07-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,2013
+1054,31-08-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,69500
+1055,31-08-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5560
+1056,31-08-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6950
+1057,31-08-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1738
+1058,31-08-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,147500
+1059,31-08-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,600000
+1060,31-08-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,90000
+1061,31-08-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,30000
+1062,31-08-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,29900
+1063,31-08-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,40200
+1064,31-08-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+1065,31-08-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+1066,31-08-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+1067,31-08-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,61000
+1068,31-08-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4880
+1069,31-08-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,6100
+1070,31-08-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1525
+1071,31-08-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,60800
+1072,31-08-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+1073,31-08-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+1074,31-08-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+1075,31-08-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+1076,31-08-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2100
+1077,31-08-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,3000
+1078,31-08-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+1079,31-08-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,105000
+1080,31-08-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8400
+1081,31-08-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10500
+1082,31-08-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2625
+1083,31-08-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,46000
+1084,31-08-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,80500
+1085,31-08-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6440
+1086,31-08-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,8050
+1087,31-08-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,2013
+1088,31-08-2024,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,5000
+1089,31-08-2024,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,7500
+1090,31-08-2024,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,10000
+1091,30-09-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,69500
+1092,30-09-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5560
+1093,30-09-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,6950
+1094,30-09-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1738
+1095,30-09-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,150000
+1096,30-09-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,600000
+1097,30-09-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,90000
+1098,30-09-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,30000
+1099,30-09-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,30000
+1100,30-09-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,41000
+1101,30-09-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+1102,30-09-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+1103,30-09-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+1104,30-09-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,61000
+1105,30-09-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,4880
+1106,30-09-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,6100
+1107,30-09-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1525
+1108,30-09-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,59800
+1109,30-09-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+1110,30-09-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+1111,30-09-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+1112,30-09-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+1113,30-09-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2100
+1114,30-09-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,3000
+1115,30-09-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+1116,30-09-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,105000
+1117,30-09-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8400
+1118,30-09-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10500
+1119,30-09-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2625
+1120,30-09-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,47000
+1121,30-09-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,80500
+1122,30-09-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6440
+1123,30-09-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,8050
+1124,30-09-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,2013
+1125,31-10-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,71000
+1126,31-10-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5680
+1127,31-10-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,7100
+1128,31-10-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1775
+1129,31-10-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,152500
+1130,31-10-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,600000
+1131,31-10-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,95000
+1132,31-10-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,30000
+1133,31-10-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,30100
+1134,31-10-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,44000
+1135,31-10-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+1136,31-10-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+1137,31-10-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+1138,31-10-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,66000
+1139,31-10-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,5280
+1140,31-10-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,6600
+1141,31-10-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1650
+1142,31-10-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,61500
+1143,31-10-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+1144,31-10-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+1145,31-10-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+1146,31-10-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+1147,31-10-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2100
+1148,31-10-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,3000
+1149,31-10-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+1150,31-10-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,105000
+1151,31-10-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8400
+1152,31-10-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10500
+1153,31-10-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2625
+1154,31-10-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,48000
+1155,31-10-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,82000
+1156,31-10-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6560
+1157,31-10-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,8200
+1158,31-10-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,2050
+1159,30-11-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,71000
+1160,30-11-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5680
+1161,30-11-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,7100
+1162,30-11-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1775
+1163,30-11-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,155000
+1164,30-11-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,700000
+1165,30-11-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,95000
+1166,30-11-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,35000
+1167,30-11-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,34200
+1168,30-11-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,47500
+1169,30-11-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+1170,30-11-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+1171,30-11-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+1172,30-11-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,66000
+1173,30-11-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,5280
+1174,30-11-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,6600
+1175,30-11-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1650
+1176,30-11-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,63500
+1177,30-11-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+1178,30-11-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+1179,30-11-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+1180,30-11-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+1181,30-11-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2100
+1182,30-11-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,3000
+1183,30-11-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+1184,30-11-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,107000
+1185,30-11-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8560
+1186,30-11-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10700
+1187,30-11-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2675
+1188,30-11-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,49000
+1189,30-11-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,82000
+1190,30-11-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6560
+1191,30-11-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,8200
+1192,30-11-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,2050
+1193,31-12-2024,60810,60810 Salary & Wages,CS,Customer Support,EXPENSES,71000
+1194,31-12-2024,60820,60820 Payroll Taxes,CS,Customer Support,EXPENSES,5680
+1195,31-12-2024,60830,60830 Health Insurance,CS,Customer Support,EXPENSES,7100
+1196,31-12-2024,60840,60840 Payroll Processing Fees,CS,Customer Support,EXPENSES,1775
+1197,31-12-2024,40200,40200 Product Revenue,G&A,General & Administrative,REVENUE,157500
+1198,31-12-2024,40100,40100 SaaS Revenue,G&A,General & Administrative,REVENUE,700000
+1199,31-12-2024,50210,50210 Product Costs,G&A,General & Administrative,EXPENSES,95000
+1200,31-12-2024,50100,50100 Web Domain & Hosting Fees,G&A,General & Administrative,EXPENSES,35000
+1201,31-12-2024,50200,50200 Merchant Account Fees,G&A,General & Administrative,EXPENSES,34300
+1202,31-12-2024,60100,60100 Advertising & Marketing,G&A,General & Administrative,EXPENSES,51000
+1203,31-12-2024,60500,60500 Insurance,G&A,General & Administrative,EXPENSES,4100
+1204,31-12-2024,60620,60620 Rent & Lease,G&A,General & Administrative,EXPENSES,5100
+1205,31-12-2024,60630,60630 Utilities,G&A,General & Administrative,EXPENSES,16500
+1206,31-12-2024,60810,60810 Salary & Wages,G&A,General & Administrative,EXPENSES,66000
+1207,31-12-2024,60820,60820 Payroll Taxes,G&A,General & Administrative,EXPENSES,5280
+1208,31-12-2024,60830,60830 Health Insurance,G&A,General & Administrative,EXPENSES,6600
+1209,31-12-2024,60840,60840 Payroll Processing Fees,G&A,General & Administrative,EXPENSES,1650
+1210,31-12-2024,60850,60850 Commissions Expense,G&A,General & Administrative,EXPENSES,65800
+1211,31-12-2024,60710,60710 Accounting Fees,G&A,General & Administrative,EXPENSES,9200
+1212,31-12-2024,60720,60720 Consulting Fees,G&A,General & Administrative,EXPENSES,5500
+1213,31-12-2024,60730,60730 Legal Fees,G&A,General & Administrative,EXPENSES,8200
+1214,31-12-2024,60740,60740 Recruiting Fees,G&A,General & Administrative,EXPENSES,27800
+1215,31-12-2024,80100,80100 Depreciation Expense,G&A,General & Administrative,EXPENSES,2200
+1216,31-12-2024,80200,80200 Interest Expense,G&A,General & Administrative,EXPENSES,3000
+1217,31-12-2024,60400,60400 Dues & Subscriptions,R&D,Research & Development,EXPENSES,3000
+1218,31-12-2024,60810,60810 Salary & Wages,R&D,Research & Development,EXPENSES,107000
+1219,31-12-2024,60820,60820 Payroll Taxes,R&D,Research & Development,EXPENSES,8560
+1220,31-12-2024,60830,60830 Health Insurance,R&D,Research & Development,EXPENSES,10700
+1221,31-12-2024,60840,60840 Payroll Processing Fees,R&D,Research & Development,EXPENSES,2675
+1222,31-12-2024,60100,60100 Advertising & Marketing,S&M,Sales & Marketing,EXPENSES,50000
+1223,31-12-2024,60810,60810 Salary & Wages,S&M,Sales & Marketing,EXPENSES,82000
+1224,31-12-2024,60820,60820 Payroll Taxes,S&M,Sales & Marketing,EXPENSES,6560
+1225,31-12-2024,60830,60830 Health Insurance,S&M,Sales & Marketing,EXPENSES,8200
+1226,31-12-2024,60840,60840 Payroll Processing Fees,S&M,Sales & Marketing,EXPENSES,2050
+1227,31-12-2024,61010,61010 Lodging,S&M,Sales & Marketing,EXPENSES,5000
+1228,31-12-2024,61020,61020 Meals & Entertainment,S&M,Sales & Marketing,EXPENSES,7500
+1229,31-12-2024,61030,61030 Travel,S&M,Sales & Marketing,EXPENSES,10000
