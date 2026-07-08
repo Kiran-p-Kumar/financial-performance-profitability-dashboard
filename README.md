@@ -74,7 +74,7 @@ Power BI Dashboard
 
 ## 📷 Dashboard Preview
 
-[> *(Add your dashboard screenshot here)*](https://github.com/Kiran-p-Kumar/financial-performance-profitability-dashboard/blob/main/Financial_Performance_Analysis_Dashboard/Dashboard/Screenshot%202026-07-08%20094043.png)
+(https://github.com/Kiran-p-Kumar/financial-performance-profitability-dashboard/blob/main/Financial_Performance_Analysis_Dashboard/Dashboard/Screenshot%202026-07-08%20094043.png)
 
 ---
 
